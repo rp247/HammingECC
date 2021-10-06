@@ -1,15 +1,9 @@
 Ruchit Patel
 
-rpatel18
-
-Spring 2021
-
-Assignment 5: Hamming Codes
-
 ---------------------
 DESCRIPTION
 
-- In this lab, a modified version of Hamming(7,4) error correcting code (ECC), Hamming(8,4), is implemented using the matrix method.
+- A modified version of Hamming(7,4) error correcting code (ECC), Hamming(8,4), is implemented using the matrix method.
 - The lab can produce four executables: Encode, Decode, Entropy (source code given), Error (source code given).
 - Common Arguments for encoder and decoder:    -h (prints help message), 
 		            -i (specifies input file (default:stdin)), 
@@ -83,3 +77,4 @@ With make:
 
 7. In order to format files, run “make format” in the terminal.
 
+This is a part of a lab designed by Prof. Darrell Long.
